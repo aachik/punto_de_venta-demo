@@ -1,5 +1,5 @@
-import Tkinter
-cuadro = Tkinter.tk(cuadro)
+from tkinter import Tk
 
-cuadro()
+cuadro = Tk()
+
 
