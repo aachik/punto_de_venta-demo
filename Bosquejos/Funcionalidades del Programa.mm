@@ -1,0 +1,12 @@
+<map version="0.9.0">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1420227765231" ID="ID_421753225" MODIFIED="1420227865771" TEXT="Funcionalidades del Programa">
+<node CREATED="1420227866351" ID="ID_776519729" MODIFIED="1420227882881" POSITION="right" TEXT="LogIn_LogOut()"/>
+<node CREATED="1420227883170" ID="ID_390529077" MODIFIED="1420227892190" POSITION="right" TEXT="CRUD_Articulos()"/>
+<node CREATED="1420227892735" ID="ID_1918738918" MODIFIED="1420227896188" POSITION="right" TEXT="Comprar()"/>
+<node CREATED="1420227896679" ID="ID_1014735303" MODIFIED="1420227962775" POSITION="right" TEXT="Historial(comprar)"/>
+<node CREATED="1420227903643" ID="ID_1860077351" MODIFIED="1420227913757" POSITION="right" TEXT="Listas(Productos,articulo)"/>
+<node CREATED="1420227915487" ID="ID_757062075" MODIFIED="1420227982419" POSITION="right" TEXT="Calcular_total(Productos,cantidad))"/>
+<node CREATED="1420227942183" ID="ID_1761335957" MODIFIED="1420227945388" POSITION="right" TEXT="Buscar()"/>
+</node>
+</map>
