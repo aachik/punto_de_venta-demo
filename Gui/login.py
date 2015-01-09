@@ -18,3 +18,4 @@ vl.mainloop()
 
 # Trabajo pediente
 #	* Orientarlo ha objetos
+#	* Crear metodos para el controlador

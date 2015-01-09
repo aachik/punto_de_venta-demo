@@ -47,7 +47,7 @@ precioarticulos.insert(END, "")
 #scrollbar.grid(row=0,column=3)
 
 cantidadarticulos = Listbox(f,width=20, height=35,)# yscrollcommand=scrollbar.set)
-cantidadarticulos.grid(row=0, column=2)
+cantidadarticulos.grid(row=0, column=anda)
 cantidadarticulos.insert(END, "")
 
 #No se como poner el scroll con grid
@@ -76,5 +76,6 @@ Total.grid(row=2,column=2)
 #	* Orientarlo ha objetos
 #	* Definir el total
 #	* Saber usar el Scrollbar
+#	* Crear metodos para el controlador
 
 pvv.mainloop()
