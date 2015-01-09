@@ -24,7 +24,11 @@ class GUI:
 		
 		self.cuadro.mainloop()
 
-	def 
+	def LogIn():
+    	username = input("Por favor introdusca su nombre de usuario")
+    	password = input("Por favor introdusca su password:")
+   
+ x
 
 
 if __name__ == "__main__": GUI()
